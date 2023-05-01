@@ -1,0 +1,8 @@
+.quote-block{
+    background-color: rgb(97, 85, 85);
+    height: fit-content;
+    width: 300px;
+    text-align: center;
+    font-size: 16px;
+    box-sizing: border-box;
+}
